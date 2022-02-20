@@ -1,6 +1,41 @@
-h1{  
-	color: #FFD700;
-	font-size: 150%;
-	font-family: Courier New;
+h2{  
+	color: #000000;
+	font-size: 200%;
+	font-family: Impact;
 	text-align: center;
+}
+
+H1{  
+	color: #000000;
+	font-size: 250%;
+	font-family: Impact;
+	text-align: center;
+}
+
+p{
+	font-family: 'Roboto Serif', sans-serif;
+	font-size: 100%;
+	text-align: center;
+}
+
+img{
+	padding: 30px; 
+    background: #f0f0f0; 
+    border: 3px solid #666; 
+}
+
+button{
+	
+	background-color: #000000;
+	text-align: center;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	font-family: Impact;
+	display: inline-block;
+	font-size: 15px;
+	margin: 4px 2px;
+	cursor:  pointer;
+	border-radius: 5px;
+	
 }
